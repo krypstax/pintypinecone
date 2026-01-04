@@ -1,0 +1,7 @@
+{
+  "name": "PinStrategy AI",
+  "description": "An intelligent Pinterest content strategist that transforms product images and descriptions into SEO-optimized content packs including AI-generated visuals, titles, descriptions, and keywords.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
